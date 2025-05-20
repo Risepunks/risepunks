@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👾 RisePunks
 
-<!--
-**Risepunks/risepunks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**RisePunks** is an OG NFT collection built on **RiseChain** — the fastest EVM-compatible blockchain. Inspired by the OG punks but supercharged for modern the modern era, RisePunks brings culture, identity, and innovation to the RiseChain ecosystem.
 
-Here are some ideas to get you started:
+## 📌 Project Links
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* [Twitter (X)](https://x.com/RisePunks)
+* [Telegram](https://t.me/risepunks)
+
+---
+
+**Follow us, mint early, and rise with the punks.**
+[🐦 Twitter](https://x.com/RisePunks) | [💬 Telegram](https://t.me/risepunks)
+
+---
